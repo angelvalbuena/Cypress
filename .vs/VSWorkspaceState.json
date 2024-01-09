@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cypress",
+    "\\cypress\\e2e",
+    "\\cypress\\e2e\\1-getting-started",
+    "\\cypress\\fixtures",
+    "\\cypress\\support"
+  ],
+  "SelectedNode": "\\cypress\\e2e\\guardandoElementos.cy.js",
+  "PreviewInSolutionExplorer": false
+}
